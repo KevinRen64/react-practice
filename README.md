@@ -1,3 +1,14 @@
+# Program Description:
+This front-end program is developed using Material-UI (MUI) React and is designed to manage a collection of products. Each product within the system is characterized by its unique identifier (ID), name, description, price, and a photo.
+# Key Features:
+## Product Management: 
+This program allows users to efficiently manage multiple products. Users can add new products, update existing product details, and delete products as needed.
+## Search Functionality: 
+Easily find specific products using the program's search feature. Search by name, description, or any other relevant criteria to quickly locate items in the catalog.
+## Import and Export: 
+Streamline data management by importing product information from external sources and exporting it for various purposes. This feature enhances data portability and sharing capabilities.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
