@@ -9,6 +9,9 @@ Easily find specific products using the program's search feature. Search by name
 Streamline data management by importing product information from external sources and exporting it for various purposes. This feature enhances data portability and sharing capabilities.
 
 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
